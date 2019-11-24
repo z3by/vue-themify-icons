@@ -1,0 +1,29 @@
+{
+    "name": "vue-themify-icons",
+    "version": "0.0.4",
+    "description": "Vue.js themify icons",
+    "main": "index.js",
+    "license": "MIT",
+    "repository": "arab-open-source/vue-themify-icons",
+    "contributors": [
+        {
+            "name": "Ahmad Mostafa",
+            "url": "https://github.com/z3by"
+        }
+    ],
+    "files": [
+        "themify-icons",
+        "index.js",
+        "TiIcon.vue"
+    ],
+    "scripts": {},
+    "keywords": [
+        "themify icons",
+        "themify",
+        "free icons",
+        "light icons",
+        "ios icons",
+        "themify vue",
+        "Vue icons"
+    ]
+}

@@ -1,0 +1,64 @@
+Arguments: 
+  /usr/local/Cellar/node/12.1.0/bin/node /usr/local/bin/yarn publish
+
+PATH: 
+  /usr/local/opt/openssl/bin:/usr/local/opt/mysql-client/bin:/usr/local/opt/mysql-client/bin:/usr/local/opt/gettext/bin:/Users/ahmad/git/BriteCore/lib:/Users/ahmad/git/BriteCore:/Users/ahmad/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/opt/openssl/bin:/usr/local/opt/mysql-client/bin:/usr/local/opt/gettext/bin:/Users/ahmad/git/BriteCore/lib:/Users/ahmad/git/BriteCore:/Users/ahmad/bin:/Users/ahmad/git/BriteDevEnv/tools:/usr/local/Cellar/gettext/0.20.1/bin:/usr/local/mysql/bin:/Users/ahmad/git/BriteDevEnv/tools:/usr/local/Cellar/gettext/0.20.1/bin:/usr/local/mysql/bin:/usr/local/bin
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  13.1.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:125850:13)
+      at Interface.emit (events.js:210:5)
+      at Interface._ttyWrite (readline.js:887:16)
+      at ReadStream.onkeypress (readline.js:191:10)
+      at ReadStream.emit (events.js:210:5)
+      at emitKeys (internal/readline/utils.js:433:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1153:36)
+      at ReadStream.emit (events.js:210:5)
+      at addChunk (_stream_readable.js:326:12)
+
+npm manifest: 
+  {
+      "name": "vue-themify-icons",
+      "version": "0.0.4",
+      "description": "Vue.js themify icons",
+      "main": "index.js",
+      "license": "MIT",
+      "repository": "arab-open-source/vue-themify-icons",
+      "contributors": [
+          {
+              "name": "Ahmad Mostafa",
+              "url": "https://github.com/z3by"
+          }
+      ],
+      "files": [
+          "themify-icons",
+          "index.js",
+          "TiIcon.vue"
+      ],
+      "scripts": {},
+      "keywords": [
+          "themify icons",
+          "themify",
+          "free icons",
+          "light icons",
+          "ios icons",
+          "themify vue",
+          "Vue icons"
+      ]
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
