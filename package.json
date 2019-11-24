@@ -16,7 +16,9 @@
         "index.js",
         "TiIcon.vue"
     ],
-    "scripts": {},
+    "scripts": {
+        "docs": "vuepress dev docs"
+    },
     "keywords": [
         "themify icons",
         "themify",
@@ -25,5 +27,8 @@
         "ios icons",
         "themify vue",
         "Vue icons"
-    ]
+    ],
+    "devDependencies": {
+        "vuepress": "^1.2.0"
+    }
 }
