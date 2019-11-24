@@ -17,7 +17,8 @@
         "TiIcon.vue"
     ],
     "scripts": {
-        "docs": "vuepress dev docs"
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
     },
     "keywords": [
         "themify icons",
