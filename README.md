@@ -1,3 +1,8 @@
+![https://badgen.net/npm/v/vue-themify-icons](https://badgen.net/npm/v/vue-themify-icons)
+![https://badgen.net/npm/dt/vue-themify-icons](https://badgen.net/npm/dt/vue-themify-icons)
+![https://badgen.net/npm/license/vue-themify-icons](https://badgen.net/npm/license/vue-themify-icons)
+![https://badgen.net/github/contributors/arab-open-source/vue-themify-icons](https://badgen.net/github/contributors/arab-open-source/vue-themify-icons)
+
 # vue-themify-icons
 
 light modern Themify Icons for [Vue.js](https://github.com/vuejs/vue) 
