@@ -32,3 +32,6 @@ export default {
 
 ## Contribution
 PRs are welcome! Go ahead We are waiting your PR :heart_eyes:
+
+## Credit
+Thanks to [themify](https://themify.me/themify-icons) for their free icons.
