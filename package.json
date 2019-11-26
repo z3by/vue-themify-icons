@@ -1,6 +1,6 @@
 {
     "name": "vue-themify-icons",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Vue.js themify icons",
     "main": "index.js",
     "license": "MIT",
@@ -9,6 +9,8 @@
         "email": "zoaby.am@gmail.com",
         "url": "https://ahmadmostafa.com"
     },
+    "publisher": "arab-open-source",
+    "displayName": "Vue Themify Icons",
     "readme": "README.md",
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/"
@@ -41,7 +43,7 @@
         "vue icons",
         "light icons"
     ],
-    "dependencies": {
+    "devDependencies": {
         "vuepress": "^1.2.0"
     }
 }
