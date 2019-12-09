@@ -7,6 +7,7 @@
 
 light modern Themify Icons for [Vue.js](https://github.com/vuejs/vue) 
 
+[!Screen Shot 2019-12-10 at 1.36.16 AM.png](./Screen Shot 2019-12-10 at 1.36.16 AM.png)
 ### [:book: Full Documentation](https://arab-open-source.github.io/vue-themify-icons/)
 
 ## Installation
