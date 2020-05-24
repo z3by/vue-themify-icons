@@ -4,5 +4,5 @@ heroImage: /img/logo.png
 tagline: Vue.js themify icons
 actionText: Quick Start →
 actionLink: /guide/
-footer: Made by z3by with ❤️
+footer: Made by Ahmad Mostafa with ❤️
 ---
