@@ -9,14 +9,14 @@
         "email": "zoaby.am@gmail.com",
         "url": "https://ahmadmostafa.com"
     },
-    "publisher": "arab-open-source",
+    "publisher": "z3by",
     "displayName": "Vue Themify Icons",
     "readme": "README.md",
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/"
     },
-    "homepage": "https://github.com/arab-open-source/vue-themify-icons",
-    "repository": "arab-open-source/vue-themify-icons",
+    "homepage": "https://github.com/z3by/vue-themify-icons",
+    "repository": "z3by/vue-themify-icons",
     "contributors": [
         {
             "name": "Ahmad Mostafa",
