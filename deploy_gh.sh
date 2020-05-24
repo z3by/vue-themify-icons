@@ -11,6 +11,6 @@ git add -A
 git commit -m 'deploy'
 
 
-git push -f git@github.com:arab-open-source/vue-themify-icons.git master:gh-pages
+git push -f git@github.com:z3by/vue-themify-icons.git master:gh-pages
 
 cd -
